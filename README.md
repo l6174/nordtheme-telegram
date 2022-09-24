@@ -12,6 +12,7 @@ Features:
 
 Apply/Preview:
 [Dark Version](https://t.me/addtheme/nord_dark_kde)
+
 [Light Version](https://t.me/addtheme/nordic_light_kde)
 
 I will release more versions soon like Dark with Dark sent color and Light with Dark sent color.
