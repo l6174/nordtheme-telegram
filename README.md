@@ -1,16 +1,15 @@
-# nordtheme-telegram
-Nord Theme for Telegram Android/IOS
+# Nord Theme for Telegram Android/IOS
 
 [Nord Theme](https://nordtheme.com) for [Telegram Desktop](https://github.com/gilbertw1/telegram-nord-theme) is already available. So, why not make one for Android and IOS?
 
-Features:
+# Features:
 >Made from pure [Nord Theme](https://nordtheme.com).
 
 >Light and Dark mode available
 
 >Compatible for both Android and IOS
 
-Apply/Preview:
+# Apply/Preview:
 [Dark Version](https://t.me/addtheme/nord_dark_kde)
 
 [Light Version](https://t.me/addtheme/nordic_light_kde)
