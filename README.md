@@ -9,6 +9,15 @@
 
 >Compatible for both Android and IOS
 
+# Screenshots:
+Dark Mode:
+![Dark_Mode_Chat](Screenshot_20220924-234922_Nekogram~2.png)
+![Dark_Mode_Chats](Screenshot_20220924-234927_Nekogram~2.png)
+
+Light Mode:
+![Light_Mode_Chat](Screenshot_20220924-234934_Nekogram~2.png)
+![Light_Mode_Chats](Screenshot_20220924-234938_Nekogram~2.png)
+
 # Apply/Preview:
 [Dark Version](https://t.me/addtheme/nord_dark_kde)
 
