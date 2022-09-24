@@ -31,4 +31,4 @@
 
 I will release more versions soon like Dark with Dark sent color and Light with Dark sent color.
 
-Message me on Telegram for suggestions [@detective_ryuzaki](https://t.me/detective_ryuzaki). I will try to keep this theme alive.
+Message me on Telegram for suggestions ([@detective_ryuzaki](https://t.me/detective_ryuzaki)). I will try to keep this theme alive.
