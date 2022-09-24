@@ -5,9 +5,9 @@
 # Features:
 >Made from pure [Nord Theme](https://nordtheme.com).
 
->Light and Dark mode available
+>Light and Dark mode available.
 
->Compatible for both Android and IOS
+>Compatible for both Android and IOS.
 
 
 
@@ -25,6 +25,9 @@
 [Dark Version](https://t.me/addtheme/nord_dark_kde)
 
 [Light Version](https://t.me/addtheme/nordic_light_kde)
+
+
+# Contact/Info:
 
 I will release more versions soon like Dark with Dark sent color and Light with Dark sent color.
 
