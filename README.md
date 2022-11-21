@@ -7,6 +7,8 @@
 
 >Light and Dark mode available.
 
+>Different variantts available.
+
 >Compatible for both Android and IOS.
 
 
@@ -14,17 +16,23 @@
 # Screenshots:
 
 # Dark Mode:
-![Dark_Mode_Chat](Screenshot_20220924-234922_Nekogram~2.png)
-![Dark_Mode_Chats](Screenshot_20220924-234927_Nekogram~2.png)
+![Dark_Mode_Chat](Screenshot_20221122-002532_Telegram.png)
+![Dark_Mode_Chats](Screenshot_20221122-002547_Telegram.png)
 
 # Light Mode:
 ![Light_Mode_Chat](Screenshot_20220924-234934_Nekogram~2.png)
 ![Light_Mode_Chats](Screenshot_20220924-234938_Nekogram~2.png)
 
+# Dark Mode with light sent bubble:
+![Dark_Mode_V2_chat](Screenshot_20220924-234922_Nekogram~2.png)
+![Dark_Mode_V2_chats](Screenshot_20220924-234927_Nekogram~2.png)
+
 # Apply/Preview:
-[Dark Version](https://t.me/addtheme/nord_dark_kde)
+[Dark Version](https://t.me/addtheme/nord_dark_wds)
 
 [Light Version](https://t.me/addtheme/nordic_light_kde)
+
+[Dark Version V2](https://t.me/addtheme/nord_dark_kde)
 
 
 # Contact/Info:
